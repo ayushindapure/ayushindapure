@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **indapureayush2003@gmail.com**
 
-- ⚡ Fun fact **I judge websites on awwwards.com in free time**
+- ⚡ Fun fact **I judge websites on [awwwards](https://www.awwwards.com) in free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
