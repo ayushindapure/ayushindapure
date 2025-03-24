@@ -6,12 +6,7 @@
 <p align="left"><img src="https://camo.githubusercontent.com/35876f1cdec3cc4619a397ce7826da8e262d623ebdb8ad316e3a2917cc0ddec2/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f70772f41424c565638355369456b42734c524a75534c6e5236444242716a524b436c326b34464c5354696e53503945496d6b57754d745871477237776243486752454b536374534c4134304d4e6d74482d62664d656b335f3541315571763671744a556973424266694c544b4d466a733377657973746c6679644b4d644c4c3838745f50477444314f6e3641686659646e6b454172305635794c576f51733d77313235362d683332352d732d6e6f2d676d3f61757468757365723d30" alt="ayushindapure" /></p>
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <span>- 🔭 I’m currently working on <a href="https://www.streeats.in" target="_blank">Streeats</a></span>
-  <a href="https://www.producthunt.com/products/streeats?utm_source=badge-follow&utm_medium=badge&utm_souce=badge-streeats" target="_blank">
-    <img src="https://api.producthunt.com/widgets/embed-image/v1/follow.svg?product_id=971272&theme=light" alt="Streeats - Find underrated street food spots near you | Product Hunt" style="width: 250px; height: 54px;" />
-  </a>
-</div>
+
 
 - 👨🏻‍💻 I’m currently working on [StreEats](https://www.streeats.in)
 
