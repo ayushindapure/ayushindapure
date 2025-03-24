@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushindapure" alt="ayushindapure" /></a> </p>
 
-- 🔭 I’m currently working on [Streeats](streeats.in)
+- 🔭 I’m currently working on [Streeats](https://www.streeats.in)
 
 - 🌱 I’m currently learning **React.js, Next.js, Framer motion and DSA**
 
 - 👯 I’m collaborating on a cool project called [SplitDeal](splitdealshop.netlify.app)
 
-- 🤝 I’m looking for help with [Streeats](streeats.in)
+- 🤝 I’m looking for help with [Streeats](https://www.streeats.in)
 
 - 👨‍💻 All of my projects are available at [https://ayushindapure.framer.website](https://ayushindapure.framer.website)
 
