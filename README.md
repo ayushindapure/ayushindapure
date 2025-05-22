@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, Framer motion and DSA**
 
-- 👯 I’m collaborating on a cool project called [SplitDeal](splitdealshop.netlify.app)
+- 👯 I’m collaborating on a cool project called [SplitDeal](http://splitdealshop.netlify.app)
 
 - 🤝 I’m looking for help with [StreEats](https://www.streeats.in)
 
